@@ -2,9 +2,10 @@
 
 @section('content')
 
-<h1>Welcome!</h1>
-<p>
-    This is just a sample web application powered by Laravel<sup>TM</sup>.
+<h1 class="text-white">Welcome!</h1>
+<br>
+<p class="text-white">
+    This is my sample web application powered by Laravel<sup>TM</sup>.
 </p>
 
 @stop

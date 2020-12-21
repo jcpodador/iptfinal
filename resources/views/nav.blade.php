@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-red bg-dark">
     <div class="container">
 
-        <a class="navbar-brand" href="index.php">
-            Lentrix CourseWare
+        <a class="navbar-brand " href="index.php">
+            JCAP_COURSEWARE
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
